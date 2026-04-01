@@ -21,19 +21,19 @@ I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexi
   <img src="https://img.shields.io/badge/Python-313994?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Assembly-8a489a?style=for-the-badge&logo=gnu&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-8570b1?style=for-the-badge&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ea5006?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ea5006?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-ed6c00?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-ffeb28?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-ffeb28?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
 #### Technologies & tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
-  <img src="https://img.shields.io/badge/Make-064F8C?style=for-the-badge&logo=gnu&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/CMake-004979?style=for-the-badge&logo=cmake&logoColor=white">
+  <img src="https://img.shields.io/badge/Make-0068a2?style=for-the-badge&logo=gnu&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-0084e8?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Vim-83c257?style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/Neovim-00aa74?style=for-the-badge&logo=neovim&logoColor=white">
 </p>
