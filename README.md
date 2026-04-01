@@ -1,4 +1,4 @@
-<img align="right" src="src/bird.png">
+<img align="right" src="src/bird.png" width="25%">
 
 ### Hi, nice to see ya!
 
@@ -31,7 +31,7 @@ I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
-  <img src="https://img.shields.io/badge/Make-064F8C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Make-064F8C?style=for-the-badge&logo=gnu&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Vim-83c257?style=for-the-badge&logo=vim&logoColor=white">
@@ -41,14 +41,21 @@ I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexi
 ---
 ### Projects
 
+| **Hardware Design**      | **Software Dev**|
+|:---|:---|
+
 ---
 ### Contact me!
 
+Have an idea or a project where I could lend a hand? I'm always curious about new challenges—feel free to reach out!
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/c%C3%A9sar-david-amezcua-naranjo-129bab325/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0089cf?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/c%C3%A9sar-david-amezcua-naranjo-129bab325/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-0089cf?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </p>
+
+> Open to **internships / junior opportunities** related to C/C++ development, hardware design/testing and backend.
 
 <br><br>
 <div align="center">
