@@ -1,15 +1,18 @@
-## Hi, nice to see ya!
+<img align="right" src="src/bird.png">
 
-Hi, I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexico**
+### Hi, nice to see ya!
+
+I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexico**
 
 ⚡ What I do: Bridge the gap between Hardware and Software.
 - 🛠️ Current focus: Embedded systems, Digital design (HDL), and High-performance computing.
 - 🔭 I’m currently working on: .
 - 🌱 Always learning: New ways to optimize architecture and system efficiency.
 
-## Projects
+<br>
 
-## Things I code with
+---
+### Things I code with
 #### Coding languages
 <p>
   <img src="https://img.shields.io/badge/-01a7e3?style=for-the-badge&logo=c&logoColor=white">
@@ -35,10 +38,13 @@ Hi, I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, 
   <img src="https://img.shields.io/badge/Neovim-00aa74?style=for-the-badge&logo=neovim&logoColor=white">
 </p>
 
+---
+### Projects
 
-## Contact me!
+---
+### Contact me!
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/c%C3%A9sar-david-amezcua-naranjo-129bab325/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0089cf?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
