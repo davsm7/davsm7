@@ -33,6 +33,7 @@ I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexi
   <img src="https://img.shields.io/badge/CMake-004979?style=for-the-badge&logo=cmake&logoColor=white">
   <img src="https://img.shields.io/badge/Make-0068a2?style=for-the-badge&logo=gnu&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-0084e8?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-71c9e8?style=for-the-badge&logo=windows11&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Vim-83c257?style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/Neovim-00aa74?style=for-the-badge&logo=neovim&logoColor=white">
