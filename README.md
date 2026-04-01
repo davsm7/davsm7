@@ -44,6 +44,9 @@ I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexi
 | **Hardware Design**      | **Software Dev**|
 |:---|:---|
 
+<img align="right" src="https://pixels.crd.co/assets/images/gallery104/70bb84b3.gif?v=29416114">
+<br>
+
 ---
 ### Contact me!
 
