@@ -6,7 +6,7 @@ I'm César Amezcua (**davsm7**), Computer Engineering student at **Jalisco, Mexi
 
 ⚡ What I do: Bridge the gap between Hardware and Software.
 - 🛠️ Current focus: Embedded systems, Digital design (HDL), and High-performance computing.
-- 🔭 I’m currently working on: .
+- 🔭 I’m currently working on: Soft Skills.
 - 🌱 Always learning: New ways to optimize architecture and system efficiency.
 
 <br>
