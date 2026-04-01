@@ -1,31 +1,35 @@
-# 👋 Hola, soy [Nombre]
+## Hi, nice to see ya!
 
-> [Frase que resume tu enfoque — ej: "Ingeniero en formación explorando los fundamentos de la computación"]
+## Things I code with
 
-## 🔭 Actualmente
-- Estudiando [X] en [Universidad]
-- Trabajando en [proyecto/problema específico]
+#### Coding languages
+<p>
+  <img src="https://img.shields.io/badge/-01a7e3?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-0e64b1?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-035aa9?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-313994?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Assembly-8a489a?style=for-the-badge&logo=gnu&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-8570b1?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ea5006?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-ed6c00?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-ffeb28?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
 
-## Skills
-[![Languages](https://skillicons.dev/icons?i=c,cpp,py,lua,bash&perline=5)](https://skillicons.dev)
-<br>
-[![Technologies](https://skillicons.dev/icons?i=cmake,git,docker&perline=5)](https://skillicons.dev)
+#### Technologies & tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
+  <img src="https://img.shields.io/badge/Make-064F8C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Vim-83c257?style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/Neovim-00aa74?style=for-the-badge&logo=neovim&logoColor=white">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24"/>
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+## Projects
 
-## 💻 Habilidades Técnicas
+## Contact me!
 
-| Área | Herramientas | ¿Qué he construido? |
-|------|--------------|---------------------|
-| **Control de Versiones** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16"/> Git | 15+ proyectos versionados, flujos de ramas feature/develop |
-| **Lenguajes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16"/> Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="16"/> C | Automatización de datos, fundamentos de memoria |
-| **Sistemas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="16"/> Linux | Shell scripting, administración básica de servidores |
-
-## 🌱 Intereses profundos
-- [Tema 1]: ¿por qué te importa?
-- [Tema 2]: ¿qué pregunta te motiva?
-
-## 📫 Conecta
-- [LinkedIn/Twitter/Email]
+<img align="middle" src="src/welcomeBlack.png#gh-light-mode-only">
+<img align="center" src="src/welcomeBlack.png#gh-dark-mode-only">
